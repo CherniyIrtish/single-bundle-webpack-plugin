@@ -47,4 +47,4 @@ class SingleBundleWebpackPlugin {
     }
 }
 
-export default SingleBundleWebpackPlugin;
+module.exports = SingleBundleWebpackPlugin;

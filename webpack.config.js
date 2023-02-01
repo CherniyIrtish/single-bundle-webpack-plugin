@@ -4,6 +4,7 @@ const path = require('path');
 module.exports = {
     mode: 'production',
     entry: './src/index.js',
+    target: 'node',
     output: {
         path: path.resolve('dist'),
         filename: 'index.js',
@@ -23,5 +24,5 @@ module.exports = {
             "fs": false
         },
         extensions: ['.js'],
-    },
+    }
 };
