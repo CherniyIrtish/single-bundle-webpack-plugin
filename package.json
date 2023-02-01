@@ -1,0 +1,26 @@
+{
+  "name": "single-bundle-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A small webpack plugin to create single bundle from js/css files mostly for custom components ",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherniyIrtish/single-bundle-webpack-plugin.git"
+  },
+  "author": "CherniyIrtish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CherniyIrtish/single-bundle-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/CherniyIrtish/single-bundle-webpack-plugin#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
