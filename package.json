@@ -1,6 +1,6 @@
 {
   "name": "single-bundle-webpack-plugin",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A small webpack plugin to create single bundle from js/css files mostly for custom components ",
   "main": "index.js",
   "scripts": {

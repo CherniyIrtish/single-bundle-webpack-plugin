@@ -2,8 +2,8 @@
 
 Small webpack plugin allows pack js/css files to one module.<br />
 It's useful for making custom element by adding to webpack config what allows build application and create custom element by one script command.<br />
-Angular docs: https://angular.io/guide/elements <br />
-To know more how to create Angular custom elements you can read: https://medium.com/@komendantov.aleksii/angular-web-components-workspace-882ce0847220 <br />
+Angular docs: [Angular custom elements](https://angular.io/guide/elements)<br />
+To know more how to create Angular custom elements you can read: [Angular web components workspace](https://medium.com/@komendantov.aleksii/angular-web-components-workspace-882ce0847220)<br />
 
 ### Install ###
 `npm install single-bundle-webpack-plugin`
